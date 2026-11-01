@@ -1,0 +1,11 @@
+{
+  "path": "ch-sg-weesen",
+  "code": "CH-SG-WEESEN",
+  "name": "Weesen (city)",
+  "level": "municipality",
+  "parent": "ch-sg",
+  "repo": "https://github.com/lexifina/switzerland-weesen-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (65 acts, 66 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}

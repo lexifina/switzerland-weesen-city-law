@@ -1,0 +1,921 @@
+{
+ "country": "CH-SG-WEESEN",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 42,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "0628c4a4772440023bcc97cefd7ce981afd4bb2abf882e3f2093e8062893b377"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-1",
+   "short": "SRS 1.2-1",
+   "title": "Benutzungsordnung für das Gemeindearchiv Weesen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 7,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "4a8f6069ca238ac56dd8548b66abd31c12edfb4e6d9511652178ddfd995fce0f"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-2",
+   "short": "SRS 1.2-2",
+   "title": "Zuständigkeits-Vereinbarung betreffend kommunaler Fachstelle für Datenschutz",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/1.2-2",
+   "versions": [
+    {
+     "from": "2010-07-27",
+     "units": 19,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/1.2-2",
+     "sha256": "364425ccb1ddea0f014b02ead5fdc162f0c7a1308670f84f4096213824b418d2"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-3",
+   "short": "SRS 1.2-3",
+   "title": "Reglement für die Nutzung der elektronischen Ortseingangstafel",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/1.2-3",
+   "versions": [
+    {
+     "from": "2020-02-03",
+     "units": 11,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/1.2-3",
+     "sha256": "a0004aaefd2b1fa80ad13b20de5295eee77d4d9422c1043031d06ee3c4c4b9e1"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-1",
+   "short": "SRS 1.4-1",
+   "title": "Reglement über die Elektronische Datenverarbeitung für die Ergebnisermittlung bei Wahlen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/1.4-1",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 10,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/1.4-1",
+     "sha256": "2147bfd3fd793417ad32e99e7d7439ff890621c3f86c4df7b5dd630b251378bf"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1",
+   "short": "SRS 1.6-1",
+   "title": "Geschäftsreglement Gemeinderat und Kommissionen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 38,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "dc292cb829c2b5eb604b2f4fc11e327fcd7fdf5087a508ba9487648089feb600"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2",
+   "short": "SRS 1.6-2",
+   "title": "Reglement Kommission Vision Weesen – Riviera am Walensee",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/1.6-2",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 15,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/1.6-2",
+     "sha256": "62acf5dd405f45a8e5622db350ec6cf30f9a8317f9e37b4eb6e333eefac3ca5a"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3",
+   "short": "SRS 1.6-3",
+   "title": "Visum- und Kompetenzregelung der Politischen Gemeinde Weesen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/1.6-3",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 17,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/1.6-3",
+     "sha256": "d817dac16020a8836db83e2a374ef820d4adc6c2fc19d22ce23f1d63c04ca269"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1",
+   "short": "SRS 1.7-1",
+   "title": "Personalreglement",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 55,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "1c6ceac040fe4f6ccb46749c2ae61ea8c4eb4d3600677b9d64f98f69cfdaa6f6"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-1",
+   "short": "SRS 2.1-1",
+   "title": "Vereinbarung über die gemeinsame Führung des Grundbuchamtes Gaster",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/2.1-1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 12,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/2.1-1",
+     "sha256": "6112f295f0e52b324f5da806196cfbcf209007898adc3f9524c3cf8382b2ea53"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-2",
+   "short": "SRS 2.1-2",
+   "title": "Reglement über die Delegation von Zuständigkeiten im Bereich des Zivilrechts",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/2.1-2",
+   "versions": [
+    {
+     "from": "2007-03-01",
+     "units": 3,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/2.1-2",
+     "sha256": "922dfc00d82e04a11a813dfd0df3bca66509b8ad2246e4806cec788bf3e13072"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-3",
+   "short": "SRS 2.1-3",
+   "title": "Vereinbarung über die regionale Führung eines Zivilstandskreises Gaster",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/2.1-3",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 10,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/2.1-3",
+     "sha256": "6f937d4c4ee18f764ec14702b660dbff014d184c472792b407faaddb1be77f12"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1",
+   "short": "SRS 4.2-1",
+   "title": "Leistungsvereinbarung Schulsozialarbeit in der Primarschule Weesen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/4.2-1",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 12,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/4.2-1",
+     "sha256": "f16eaf47c6407b27810fb4c3a6147086ac9a134510759958aa0f9f93326d2c05"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2",
+   "short": "SRS 4.2-2",
+   "title": "Leistungsvereinbarung Schulsozialarbeit in der Oberstufenschule Weesen-Amden",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/4.2-2",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 12,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/4.2-2",
+     "sha256": "3b871cdb0b5bcb08e5c95b5b6e0fc5c4af9ce257f194e3bd948f2fed99f9490f"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1",
+   "short": "SRS 5.1-1",
+   "title": "Reglement über die Gemeindepolizei",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/5.1-1",
+   "versions": [
+    {
+     "from": "1999-06-17",
+     "units": 11,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/5.1-1",
+     "sha256": "408adc2bef24887cbc2ea6b5c10c5dd1e5cb6b928b5278e29e246a4e9c2d658a"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-2",
+   "short": "SRS 5.1-2",
+   "title": "Vereinbarung betreffend Seerettungsdienst Walensee",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/5.1-2",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 40,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/5.1-2",
+     "sha256": "0fdc4de67f28182202a466b3739ae07e0d9f3e4eca1f1251340074acc5bfe843"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-2-1",
+   "short": "SRS 5.1-2.1",
+   "title": "Tarif für den Seerettungsdienst",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/5.1-2.1",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 2,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/5.1-2.1",
+     "sha256": "de40c7c199bb74d22b25b9cd428ca50ba3288e4e4ac0940eeba88024e62b4a65"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-1",
+   "short": "SRS 5.3-1",
+   "title": "Vereinbarung betreffend Bevölkerungsschutzorganisation Region Zürichsee-Linth",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/5.3-1",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 21,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/5.3-1",
+     "sha256": "5526059705b6e6dde9c26dce618886da652702efc546cf974579c46de727932c"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-2",
+   "short": "SRS 5.3-2",
+   "title": "Vereinbarung über die Zivilschutzorganisation ZürichseeLinth",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/5.3-2",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 23,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/5.3-2",
+     "sha256": "e5442bafb8668eb487b93f9f3ed5ad953d521f1d663e8d5fcd54759025626392"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1",
+   "short": "SRS 5.5-1",
+   "title": "Feuerschutzreglement",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 9,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "65303baf44df1f099e2dbe7d436d0260cc306519200146a735c93ec2784589db"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1-1",
+   "short": "SRS 5.5-1.1",
+   "title": "Feuerwehrtarif",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/5.5-1.1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 2,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/5.5-1.1",
+     "sha256": "31557bf90d852b5bcf0fda607227464037b4e845e75b5759a6bafafddffdf979"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-2",
+   "short": "SRS 5.5-2",
+   "title": "Vereinbarung über die Feuerwehr und Ölwehr in den Gebieten Fli-Amden und Betlis",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/5.5-2",
+   "versions": [
+    {
+     "from": "1997-01-01",
+     "units": 9,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/5.5-2",
+     "sha256": "10509eb67ce2c90e2f0ddb2e10cba02dd4f0d01af6ca3402f08360df004326cc"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-3",
+   "short": "SRS 5.5-3",
+   "title": "Vereinbarung über die gemeinsame Nutzung der Autodrehleiter für die drei St. Galler Gemeinden Amden, Schänis und Weesen sowie die Gemeinden des Kantons Glarus",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/5.5-3",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 27,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/5.5-3",
+     "sha256": "a53db060c1e5651d6c1c611493aaaa2884dad43d1598b6f5b749c73db9107d50"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-4",
+   "short": "SRS 5.5-4",
+   "title": "Vereinbarung über die Beschaffung eines Hilfeleistungsfahrzeuges für die Gemeinden Amden und Weesen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/5.5-4",
+   "versions": [
+    {
+     "from": "2002-06-10",
+     "units": 13,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/5.5-4",
+     "sha256": "f8a90a92661670ebd126de054dde8cbb230536efafeb416d775768491967ca9a"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-1",
+   "short": "SRS 6.1-1",
+   "title": "Reglement über die Reserve Werterhalt Finanzvermögen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/6.1-1",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 9,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/6.1-1",
+     "sha256": "4a02fd739ca12ede24800f4adc3a5ffad14bb6ab4e5be0886edde482acc96011"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Reglement über Organisation und Benützung der Mehrzweckturnhalle Weesen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 25,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "aa71c6da092355c7eec2cd731f2ca865749ea4b88d91f94012a15f0b73d72ba6"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1-1",
+   "short": "SRS 6.6-1.1",
+   "title": "Mehrzweckturnhalle Weesen, Gebührentarif",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/6.6-1.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 10,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/6.6-1.1",
+     "sha256": "4f490cb9c6d6ce7c1263b57126d03790ad95c55181234c60bff39ca2c7c95685"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1-baur",
+   "short": "BauR",
+   "title": "Baureglement",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2013-03-15",
+     "units": 42,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "d4070c1e5cb54b594393537f94281ba89e499d37499660b2e345d498d2068573"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2",
+   "short": "SRS 7.1-2",
+   "title": "Reglement über die Kostentragungspflicht der Nachführung der amtlichen Vermessung",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 3,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "764dcd470517a294d62ebeab8b9efd554e0ddaf599731202d8b44a273ab3f7f7"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-1",
+   "short": "SRS 7.3-1",
+   "title": "Schutzverordnung",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.3-1",
+   "versions": [
+    {
+     "from": "2015-01-16",
+     "units": 35,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.3-1",
+     "sha256": "ad61190dda3ef9c7f183623c18ca65c2dabcbb549118f7dada68daffe3376964"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-2",
+   "short": "SRS 7.3-2",
+   "title": "Verordnung zum Schutze der Pilze",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.3-2",
+   "versions": [
+    {
+     "from": "2001-04-02",
+     "units": 9,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.3-2",
+     "sha256": "4280841a8ebc6178d5208a37c9e2ca14523763039163bc7c1821bcd0e0a09863"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-3",
+   "short": "SRS 7.3-3",
+   "title": "Reglement über Luftreinhaltemassnahmen bei Feuerungen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.3-3",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 8,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.3-3",
+     "sha256": "0d66914d835ab079277204b9d138fa4221ce93e3872db69eabb96fd675ce7bf6"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-3-1",
+   "short": "SRS 7.3-3.1",
+   "title": "Gebührentarif für die Kontrolle der Feuerungsanlagen der Gemeindefachstelle",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.3-3.1",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 6,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.3-3.1",
+     "sha256": "205fb0fa33e746b692ef5b015f3282ca36744eeaea73054548436b5ba053bee9"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-4",
+   "short": "SRS 7.3-4",
+   "title": "Richtlinien über die Gewährung von Energie-Förderbeiträgen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.3-4",
+   "versions": [
+    {
+     "from": "2021-11-30",
+     "units": 8,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.3-4",
+     "sha256": "e3197bd123457c331998e5e84089fdc1c402ca168efc59085bc649712d5a61e6"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-5",
+   "short": "SRS 7.3-5",
+   "title": "Bachreglement",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.3-5",
+   "versions": [
+    {
+     "from": "2016-05-01",
+     "units": 14,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.3-5",
+     "sha256": "c4470624cf4c68d5e7ab6454753d83d2ee78a33eaabaf0b0f5c73c6fcf3d1524"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-6",
+   "short": "SRS 7.3-6",
+   "title": "Reglement über Energie-Förderbeiträge",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.3-6",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 7,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.3-6",
+     "sha256": "5093f5ab0656ee23087fe2d0b657c94645faeff2e2ae4f6a7b30c18d868e4fbd"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1",
+   "short": "SRS 7.4.3-1",
+   "title": "Wasserversorgungsreglement",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.4.3-1",
+   "versions": [
+    {
+     "from": "2016-05-01",
+     "units": 76,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.4.3-1",
+     "sha256": "b1865e4af14c255858e78aa11bd15af7b478bce1c67c6b8de0c0cc4f94f5460d"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1-1",
+   "short": "SRS 7.4.3-1.1",
+   "title": "Gebührentarif zum Wasserversorgungsreglement",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.4.3-1.1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 5,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.4.3-1.1",
+     "sha256": "0842dd02a699c9a2b3d946fc5f066b4b969a248f89f569165dc834e8fb428b16"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2",
+   "short": "SRS 7.4.3-2",
+   "title": "Abwasserreglement",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.4.3-2",
+   "versions": [
+    {
+     "from": "2005-10-01",
+     "units": 54,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.4.3-2",
+     "sha256": "a4d819e969d336b3cab4a1d9fe2691ce36c9aaf2488ee2e85e530fe663220478"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2-1",
+   "short": "SRS 7.4.3-2.1",
+   "title": "Abwasserreglement der Politischen Gemeinde Weesen Gebührentarif",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.4.3-2.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 4,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.4.3-2.1",
+     "sha256": "db9d28ee382606fc1e10236dce95aa8cbd485be4fbd4f0f566f90647a005e440"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-3",
+   "short": "SRS 7.4.3-3",
+   "title": "Statuten Abwasserverband Glarnerland",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.4.3-3",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 48,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.4.3-3",
+     "sha256": "7a79948d981a47b431b44c47b53318b4b0d00dd3e91ff1b59fe1fdfa6f7d5640"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1",
+   "short": "SRS 7.4.4-1",
+   "title": "Reglement über die Abfallentsorgung",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.4.4-1",
+   "versions": [
+    {
+     "from": "1995-01-01",
+     "units": 30,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.4.4-1",
+     "sha256": "e43e1eecf5a8fc97daf3e4de430cff33efe0c4e05f178534a3a50f4ba047ec83"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1-1",
+   "short": "SRS 7.4.4-1.1",
+   "title": "Gebührentarif für die Abfallentsorgung",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.4.4-1.1",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 2,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.4.4-1.1/versions/121",
+     "sha256": "cbdc7391028985a442297fd99a602022625c4b7c42b29be882c01c9278b7eff7"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 2,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.4.4-1.1",
+     "sha256": "277566f564ae1e8fd249b18854dc25cdd16b8b912e99b7ebe62192b87d2dd214"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-2",
+   "short": "SRS 7.4.4-2",
+   "title": "Vereinbarung über die gemeinsame Einführung und Bewirtschaftung der Kehrichtsackgebühr",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.4.4-2",
+   "versions": [
+    {
+     "from": "2006-05-24",
+     "units": 13,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.4.4-2",
+     "sha256": "495d3047c4751995c900d964545da51ff1d5c64e2eb0ad9d65e543c7d8bf4339"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1",
+   "short": "SRS 7.7-1",
+   "title": "Reglement über die Parkierung auf öffentlichem Grund",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "1999-04-26",
+     "units": 13,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "3dde9f8650f99b410f9fa50aedd22dea3295589e4f0a6ced770a281fcb568251"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-2",
+   "short": "SRS 7.7-2",
+   "title": "Schiffshafenverordnung",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.7-2",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 13,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.7-2",
+     "sha256": "b7fc53a780e0fb353af23a82f8cd4b153bfb617bce6477cbbb6abab2793c6ed4"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-2-1",
+   "short": "SRS 7.7-2.1",
+   "title": "Gebührenordnung zur Schiffshafenverordnung",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.7-2.1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.7-2.1",
+     "sha256": "df32f20fbf12043136d34a8bc5524ace684dc2930a099b49184aa84a9d5013dd"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-3",
+   "short": "SRS 7.7-3",
+   "title": "Weisungen für die Benützung von Grundstücken",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/7.7-3",
+   "versions": [
+    {
+     "from": "1991-01-01",
+     "units": 8,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/7.7-3",
+     "sha256": "9439b459ed3353a3b2293f6acfb50a83991a6feb1ca5aa94d50e2a6ef1fa14b0"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Bestattungs- und Friedhofreglement",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "units": 54,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "f4efe302bc249793ce344792c89b6e084f42a106e5217292719df1ef74368623"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1-1",
+   "short": "SRS 8.2-1.1",
+   "title": "Gebührentarif zum Bestattungs- und Friedhofreglement",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/8.2-1.1",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "units": 2,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/8.2-1.1",
+     "sha256": "e38e3c2108cf00b4ebf29b41176c2f5a202db335c6a9058317000f99246f517c"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1",
+   "short": "SRS 8.3-1",
+   "title": "Reglement über die Hundehaltung",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/8.3-1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/8.3-1",
+     "sha256": "b93f4ff0ebb5fd7742afef6f225f58473f59988e17bc2db52fbc83313bf13c36"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-2",
+   "short": "SRS 8.3-2",
+   "title": "Vereinbarung über das Notschlachtlokal Schänis-Rufi",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/8.3-2",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 7,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/8.3-2",
+     "sha256": "7ac3988cce719f50c0c22fa92efabd6d6f6e3d712fe20ba3e9d6cb6ee58cfb45"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-3",
+   "short": "SRS 8.3-3",
+   "title": "Vereinbarung über die Mitbenützung, Unterhalt und Betrieb der regionalen Tierkörper-Sammelstelle bei der Kläranlage Benken",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/8.3-3",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 7,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/8.3-3",
+     "sha256": "4969d334e7a952be8ec1eb6fb46373ae9cc39a07749724b250c79a04c338fecb"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-1",
+   "short": "SRS 8.7-1",
+   "title": "Vereinbarung über die Bildung eines Zweckverbands «Soziale Dienste Linthgebiet»",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/8.7-1",
+   "versions": [
+    {
+     "from": "2008-06-18",
+     "units": 23,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/8.7-1",
+     "sha256": "bf7a02afb4c84004ac2ee50bda433e0d480dc3d2e185bfb43dda77d1fb02239e"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-2",
+   "short": "SRS 8.7-2",
+   "title": "Vereinbarung Zweckverband «Kindes- und Erwachsenenschutz Region Zürichsee-Linth»",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/8.7-2",
+   "versions": [
+    {
+     "from": "2019-09-27",
+     "units": 34,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/8.7-2",
+     "sha256": "2a85f032404be11b7cd1e790f270e0e180969db6adf043ef877780d27a4a56e9"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-3",
+   "short": "SRS 8.7-3",
+   "title": "Reglement über die Heimaufsicht",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/8.7-3",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 16,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/8.7-3",
+     "sha256": "13fcc2fb6c70fb9c3bfe19cd4c8bb1b073d674a17dc931228e021f18cc47a09c"
+    }
+   ]
+  },
+  {
+   "slug": "9-1-1",
+   "short": "SRS 9.1-1",
+   "title": "Reglement über den Entwicklungsfonds",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/9.1-1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 5,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/9.1-1",
+     "sha256": "692410cdcd406870cc7ca1cbfa48c30ce666cd6dd3111e21e62394c1b12d6ed7"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-1",
+   "short": "SRS 9.4-1",
+   "title": "Reglement über die Erhebung von Kurtaxen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/9.4-1",
+   "versions": [
+    {
+     "from": "1996-04-01",
+     "units": 17,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/9.4-1",
+     "sha256": "1cc1f38678c9be263607dde05c5c58ab6c5c23859cbf322d82fb2ac4e42a50bf"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-1-1",
+   "short": "SRS 9.4-1.1",
+   "title": "Tarif zum Reglement über die Erhebung von Kurtaxen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/9.4-1.1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 3,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/9.4-1.1",
+     "sha256": "e41b74b44b69e66c9e48b6af6bbc75e5b9943d29076c6d82211115b7c97edf8d"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1",
+   "short": "SRS 9.5-1",
+   "title": "Gastwirtschaftsreglement",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/9.5-1",
+   "versions": [
+    {
+     "from": "1996-08-21",
+     "units": 6,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/9.5-1",
+     "sha256": "dc5407abdc87bf99ace343f1e769b8ea649136628d422d5527181de09a6d53c4"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1-1",
+   "short": "SRS 9.5-1.1",
+   "title": "Richtlinien zum Gastwirtschaftsreglement",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/9.5-1.1",
+   "versions": [
+    {
+     "from": "1996-07-01",
+     "units": 7,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/9.5-1.1",
+     "sha256": "14cd8e6a86b38033ea7721a57664b3c6ec6afbdb720aa486c7ea70288bf297b3"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1-2",
+   "short": "SRS 9.5-1.2",
+   "title": "Richtlinien zum Gastwirtschaftsgesetz",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/9.5-1.2",
+   "versions": [
+    {
+     "from": "1996-07-01",
+     "units": 4,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/9.5-1.2",
+     "sha256": "3295bb45efeb39bd407ad4aac9b448524e03f6bfa099337ab3a4303334109830"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-2",
+   "short": "SRS 9.5-2",
+   "title": "Reglement über den Ladenschluss in der Politischen Gemeinde Weesen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/9.5-2",
+   "versions": [
+    {
+     "from": "1987-08-10",
+     "units": 5,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/9.5-2",
+     "sha256": "d6af5247545fca69caf192ce587617e82855853baf565921879f9b72f7eee80a"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-3",
+   "short": "SRS 9.5-3",
+   "title": "Reglement über das Marktwesen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/9.5-3",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 29,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/9.5-3",
+     "sha256": "042661c67b9e8ada9b77be481f3707262623df7a66d87746230b65d95ed79d48"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-3-1",
+   "short": "SRS 9.5-3.1",
+   "title": "Gebührentarif für das Marktwesen",
+   "url": "https://weesen.tlex.ch/app/de/texts_of_law/9.5-3.1",
+   "versions": [
+    {
+     "from": "1994-11-03",
+     "units": 4,
+     "source_url": "https://weesen.tlex.ch/api/de/texts_of_law/9.5-3.1",
+     "sha256": "0093bf57d0ccdd6e1997e9e449ef07f4fcd52f0bbeb0710e2e12fde694d32bc9"
+    }
+   ]
+  }
+ ]
+}
