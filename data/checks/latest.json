@@ -1,0 +1,77 @@
+{
+ "generated": "2026-11-24T12:41:53Z",
+ "latest": {
+  "lexwork-weesen-city|switzerland/st-gallen/weesen/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 5,
+    "match_old": 0,
+    "method": "the collection's PDF of the act's current version (its pdf_link, a second rendering of the same text), its words against the words of the version held here (97% or more found = agrees)",
+    "sampled": 5,
+    "unreadable": 0
+   },
+   "census": {
+    "checked": 10,
+    "current": 65,
+    "gone": 0,
+    "held": 65,
+    "not_at_source": 0,
+    "out_of_scope": 0,
+    "pending": 0,
+    "repo": 65,
+    "source_in_scope": 65
+   },
+   "check_id": "ch-lexwork-weesen-city-20261124T124108Z",
+   "commits": null,
+   "corpus": "switzerland/st-gallen/weesen/acts",
+   "error": null,
+   "finished": "2026-11-24T12:41:52Z",
+   "flags": [],
+   "gap": 0,
+   "note": "weesen.tlex.ch: index of 65 acts (65 in force); held 65; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 10 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 18,
+   "runner": "lawwatch switzerland (d83546088b)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "65 entries, 65 in force (weesen.tlex.ch)",
+   "source": "lexwork-weesen-city",
+   "started": "2026-11-24T12:41:08Z",
+   "unexplained": 0,
+   "update": {
+    "left_for_next_check": 0,
+    "letters_check_dropped": {},
+    "new": 0,
+    "nothing_new": 0,
+    "parts": [],
+    "pdf_only": 0,
+    "re_read": 0,
+    "unreadable": 0
+   },
+   "verify": {
+    "cycle_days": 7,
+    "examples": [],
+    "held": 65,
+    "method": "each act compared this check (10 of 65: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from weesen.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "not_compared": {},
+    "not_compared_why": null,
+    "ok": true,
+    "swept": 10,
+    "versions_checked": 10,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
