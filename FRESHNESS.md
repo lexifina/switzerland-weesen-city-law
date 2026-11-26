@@ -8,7 +8,7 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Weesen: Systematische Sammlung (weesen.tlex.ch) · `switzerland/st-gallen/weesen/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-25 08:00 UTC**.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-26 06:54 UTC**.
 - Vorschriften hier: 65; aktuell gegenüber der Quelle: 65; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
 - In diesem Lesen mit der Quelle verglichen: 10 der 65 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
 - Nicht veröffentlicht: 0 (—); ohne Grund: 0.
