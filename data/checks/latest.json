@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T07:14:51Z",
+ "generated": "2026-11-28T08:37:09Z",
  "latest": {
   "lexwork-weesen-city|switzerland/st-gallen/weesen/acts": {
-   "attempt": 1,
+   "attempt": 3,
    "audit": {
     "examples": [],
     "match_neither": 0,
@@ -23,11 +23,11 @@
     "repo": 65,
     "source_in_scope": 65
    },
-   "check_id": "ch-lexwork-weesen-city-20261127T065200Z",
+   "check_id": "ch-lexwork-weesen-city-20261128T081438Z",
    "commits": null,
    "corpus": "switzerland/st-gallen/weesen/acts",
    "error": null,
-   "finished": "2026-11-27T06:52:21Z",
+   "finished": "2026-11-28T08:15:00Z",
    "flags": [],
    "gap": 0,
    "note": "weesen.tlex.ch: index of 65 acts (65 in force); held 65; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 10 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
@@ -37,7 +37,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 18,
+   "requests": 19,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +47,7 @@
    },
    "snapshot": "65 entries, 65 in force (weesen.tlex.ch)",
    "source": "lexwork-weesen-city",
-   "started": "2026-11-27T06:52:00Z",
+   "started": "2026-11-28T08:14:38Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -68,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 10,
-    "versions_checked": 10,
+    "versions_checked": 11,
     "versions_differ": 0
    }
   }
